@@ -9,8 +9,9 @@
 This repository contains a MatLab package for classifying cell types in the human brain using features of the extracellular action potential (EAP) waveform.  A user inputs a continusously sampled, broadband neurophysiology signal along with spike times and (optional) heartbeat times.  Each cell is first classified as Narrow Spiking (NS, putativie aspiny interneuron) or Broad Spiking (BS, putative spiny excitatory neuron).  If heartbeat data is available, the classifier further subdivides BS cells into BS1 and BS2 subtypes which differ in their cardiac-related EAP features and electrical compactness.
 
 This code accompanies the paper:
+
 "Cellular classes in the human brain revealed in vivo by heartbeat-related modulation of the extracellular action potential waveform"
-Clayton P. Mosher, Yina Wei, Jan Kamiński,  Anirban Nandi, Adam N. Mamelak, Costas A. Anastassiou2, Ueli Rutishauser1
+Clayton P. Mosher, Yina Wei, Jan Kamiński,  Anirban Nandi, Adam N. Mamelak, Costas A. Anastassiou, Ueli Rutishauser
 Cell Reports (in press) (2020)
 
 
