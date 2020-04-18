@@ -23,6 +23,8 @@ Abstract of the paper:
   <img width="600" height="600" src="https://raw.githubusercontent.com/rutishauserlab/cellclassifier/master/graphical abstract.jpg">
 </p>
 
+## Helper functions
+In addition to the tools provided here you will need helper functions of running circular statistics if you're interested in heartbeat-related classification.  You can find these here: Philipp Berens (2020). Circular Statistics Toolbox (Directional Statistics) (https://www.mathworks.com/matlabcentral/fileexchange/10676-circular-statistics-toolbox-directional-statistics), MATLAB Central File Exchange. Retrieved April 18, 2020.
 
 ## Preparing Your Data
 
