@@ -39,7 +39,7 @@ Data should be prepared as three variables (see ExampleData)
 
 Refer to "classify_EAPs_Main" to run the code.  The major steps are as follows:
 
-1. Load the data (line 31);
+1. Load the data (line 31); Example data can be downloaded here: https://www.dropbox.com/s/tn17vgm2buekomg/exampleData.mat?dl=0
 2. Filter the broadband signal to match the filters used in our in vivo recordings (an important step, if you use different filters you will obtain different EAP metrics) (line 35)
 3. Extract the spikes from the broadband signal and calculate the mean EAP features (lines 39-52)
 4. Classify the unit as NS or BS (line 53)
